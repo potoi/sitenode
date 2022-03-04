@@ -12,7 +12,7 @@ app.get('/',(re,res)=>{
     }
     console.log(data)
     res.send(data);
-  
+
   })
 
 
